@@ -1,7 +1,8 @@
 
-## Techniques
+## Capabilities
 - ZKP enabled credentials
-- JSON LD with BBS+ Signatures
+- JSON LD with BBS+ signatures
+- Detection of BBS+ signatures in a credential
 - BBS+ Signature requires pairing friendly curves
 - BLS12-781 pairing friendly curve can be used
 - Benefits of this approach is the ability to derive ZKPs from the signature

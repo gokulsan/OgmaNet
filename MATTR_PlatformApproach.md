@@ -1,7 +1,10 @@
 
 ## Capabilities
-- ZKP enabled credentials
+- ZKP as an extention of verified credentials
+- Creation and verification of BBS+ signatures
 - JSON LD with BBS+ signatures
+- Linked Data Proofs and JSON LD
+- Credential issuers can leverage vast data vocabularies
 - Detection of BBS+ signatures in a credential
 - BBS+ Signature requires pairing friendly curves
 - BLS12-781 pairing friendly curve can be used
